@@ -1,2 +1,2 @@
-# Ignore local scripts that is created based on `connector.py` template
+# Ignore local scripts that is created based on `connect.py` template
 scripts/*.py
